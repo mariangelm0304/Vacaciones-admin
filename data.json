@@ -1,7 +1,7 @@
 {
   "proyecto": "Jamar · Control de Personal",
   "version": 2,
-  "actualizado": "2026-06-04",
+  "actualizado": "2026-06-06",
   "tiendas": [
     "PLAZUELA",
     "SANTA MARTA",
@@ -200,6 +200,18 @@
       "regreso": "02/08/2027",
       "reemplazo": "Monica Morales",
       "id": "vmpzi7kmh6z3t"
+    },
+    {
+      "id": "vmq2djjvc3t4c",
+      "tipo": "Vacaciones",
+      "nombre": "MILTON MERCADO",
+      "cargo": "ADMINISTRADOR",
+      "tienda": "NORTE BQUILLA",
+      "region": "ATLANTICO",
+      "mes": "JUNIO",
+      "salida": "16/06/2026",
+      "regreso": "03/07/2026",
+      "reemplazo": "—"
     }
   ]
 }
