@@ -200,18 +200,6 @@
       "regreso": "02/08/2027",
       "reemplazo": "Monica Morales",
       "id": "vmpzi7kmh6z3t"
-    },
-    {
-      "id": "vmq6on657udnp",
-      "tipo": "Vacaciones",
-      "nombre": "ORLANDO FUENTES",
-      "cargo": "ADMINISTRADOR",
-      "tienda": "NORTE BQUILLA",
-      "region": "ATLANTICO",
-      "mes": "JULIO",
-      "salida": "01/07/2026",
-      "regreso": "16/07/2026",
-      "reemplazo": "—"
     }
   ]
 }
