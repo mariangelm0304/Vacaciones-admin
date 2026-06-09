@@ -1,7 +1,7 @@
 {
   "proyecto": "Jamar · Control de Personal",
   "version": 2,
-  "actualizado": "2026-06-06",
+  "actualizado": "2026-06-09",
   "tiendas": [
     "PLAZUELA",
     "SANTA MARTA",
@@ -202,15 +202,15 @@
       "id": "vmpzi7kmh6z3t"
     },
     {
-      "id": "vmq2djjvc3t4c",
+      "id": "vmq6on657udnp",
       "tipo": "Vacaciones",
-      "nombre": "MILTON MERCADO",
+      "nombre": "ORLANDO FUENTES",
       "cargo": "ADMINISTRADOR",
       "tienda": "NORTE BQUILLA",
       "region": "ATLANTICO",
-      "mes": "JUNIO",
-      "salida": "16/06/2026",
-      "regreso": "03/07/2026",
+      "mes": "JULIO",
+      "salida": "01/07/2026",
+      "regreso": "16/07/2026",
       "reemplazo": "—"
     }
   ]
