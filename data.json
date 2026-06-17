@@ -1,7 +1,7 @@
 {
   "proyecto": "Jamar · Control de Personal",
   "version": 2,
-  "actualizado": "2026-06-09",
+  "actualizado": "2026-06-17",
   "tiendas": [
     "PLAZUELA",
     "SANTA MARTA",
@@ -66,6 +66,7 @@
       "id": "vmpzi7kmh5kpr"
     },
     {
+      "id": "vmpzi7kmh592i",
       "tipo": "Vacaciones",
       "nombre": "JOSE JULIAN ORTIZ",
       "cargo": "ADMINISTRADOR",
@@ -73,9 +74,8 @@
       "region": "SANTANDER",
       "mes": "JULIO",
       "salida": "01/07/2026",
-      "regreso": "13/07/2026",
-      "reemplazo": "Fredy De Alba",
-      "id": "vmpzi7kmh592i"
+      "regreso": "16/07/2026",
+      "reemplazo": "Fredy De Alba"
     },
     {
       "tipo": "Vacaciones",
