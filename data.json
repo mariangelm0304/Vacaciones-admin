@@ -1,7 +1,7 @@
 {
   "proyecto": "Jamar · Control de Personal",
   "version": 2,
-  "actualizado": "2026-08-05",
+  "actualizado": "2026-09-08",
   "tiendas": [
     "PLAZUELA",
     "SANTA MARTA",
@@ -91,14 +91,14 @@
     },
     {
       "id": "vmpzi7kmhz2nr",
-      "tipo": "Vacaciones",
+      "tipo": "Incapacidad",
       "nombre": "XIOMARA ANTOLINEZ",
       "cargo": "ADMINISTRADOR",
       "tienda": "NORTE BOGOTA",
       "region": "CUNDINAMARCA",
-      "mes": "JULIO",
-      "salida": "21/07/2026",
-      "regreso": "06/08/2026",
+      "mes": "SEPTIEMBRE",
+      "salida": "24/08/2026",
+      "regreso": "30/09/2026",
       "reemplazo": "Brayan Ufre"
     },
     {
@@ -112,19 +112,6 @@
       "regreso": "07/09/2026",
       "reemplazo": "Fredy De Alba",
       "id": "vmpzi7kmh3r9g"
-    },
-    {
-      "tipo": "Vacaciones",
-      "nombre": "ROBERTO NIEBLES",
-      "cargo": "ADMINISTRADOR",
-      "tienda": "ZONA CENTRO",
-      "region": "ATLANTICO",
-      "mes": "SEPTIEMBRE",
-      "salida": "01/09/2026",
-      "regreso": "22/09/2026",
-      "reemplazo": "Yuneli Monsalvo",
-      "nota": "Posible reemplazo: Fredy De Alba, acorde con plan de Panamá",
-      "id": "vmpzi7kmh8p81"
     },
     {
       "tipo": "Vacaciones",
