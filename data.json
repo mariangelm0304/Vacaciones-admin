@@ -1,7 +1,7 @@
 {
   "proyecto": "Jamar · Control de Personal",
   "version": 2,
-  "actualizado": "2026-09-08",
+  "actualizado": "2026-09-29",
   "tiendas": [
     "PLAZUELA",
     "SANTA MARTA",
@@ -14,7 +14,8 @@
     "TRINITARIAS",
     "RIOHACHA",
     "CUATRO VIENTOS",
-    "SAN FELIPE"
+    "SAN FELIPE",
+    "MAYORCA"
   ],
   "novedades": [
     {
@@ -97,8 +98,8 @@
       "tienda": "NORTE BOGOTA",
       "region": "CUNDINAMARCA",
       "mes": "SEPTIEMBRE",
-      "salida": "24/08/2026",
-      "regreso": "30/09/2026",
+      "salida": "13/08/2026",
+      "regreso": "10/10/2026",
       "reemplazo": "Brayan Ufre"
     },
     {
@@ -174,6 +175,18 @@
       "regreso": "02/08/2027",
       "reemplazo": "Monica Morales",
       "id": "vmpzi7kmh6z3t"
+    },
+    {
+      "id": "vmump6uasxv8l",
+      "tipo": "Incapacidad",
+      "nombre": "JORGE BETTER",
+      "cargo": "ADMINISTRADOR",
+      "tienda": "MAYORCA",
+      "region": "—",
+      "mes": "SEPTIEMBRE",
+      "salida": "28/09/2026",
+      "regreso": "07/10/2026",
+      "reemplazo": "—"
     }
   ]
 }
